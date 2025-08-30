@@ -1,4 +1,10 @@
-## Welcome to GitHub Pages
+## Erin Too's First CS193 Homework
+
+My favorite things about CS193:
+- Student led! wow so cool!
+- I will learn lots of skills
+- Hopefully this will help me get a job/internship
+- It's fun yay
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
