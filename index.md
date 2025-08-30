@@ -1,4 +1,4 @@
-## Erin Too's First CS193 Homework
+# Erin Too's First CS193 Homework
 
 My favorite things about CS193:
 - Student led! wow so cool!
